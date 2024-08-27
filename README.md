@@ -1,5 +1,5 @@
-# React + Vite
-I developed this application backend in Spring Boot(Backend Developer) and integrate this application with the frontend developer
+# React 
+I developed this application backend in Spring Boot(Backend Developer) and integrate this application with the frontend developer.<br>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
